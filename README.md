@@ -1,12 +1,10 @@
 # Laurentleborgne#
 
-# ✉️ Find me on:
-
-
-<p align="center">
- <a href="[https://charalambosioannou.github.io/](https://github.com/Laurent-LLB)" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="www.linkedin.com/in/laurent-le-borgne-387964282" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:llb.leborgne@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/SkyzoN_FR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moinax" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/laurent-le-borgne-387964282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinax" height="30" width="40" /></a>
+<a href="https://www.instagram.com/skyzon_fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moinax" height="30" width="40" /></a>
 </p>
 
 <br />
