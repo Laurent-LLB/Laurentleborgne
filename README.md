@@ -17,7 +17,7 @@
 <img src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 <img src="	https://camo.githubusercontent.com/c205ecbe1250017…76f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="inDesign" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/ed93c2b000a76ce…f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-<img src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
